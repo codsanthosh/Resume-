@@ -1,0 +1,41 @@
+.full {
+  
+    display: grid;
+    grid-template-columns: 39% auto;
+  color: black;
+  margin-top: 28px;
+  
+}
+
+.left{
+  background-color: rgb(0, 191, 255);
+  padding: 25px;
+  font-size: 10px;
+  
+}
+
+.right{
+  background-color: rgb(81, 121, 201);
+  padding: 10px;
+  font-size: 15px;
+  
+}
+
+
+h2 {
+    color: black;
+  border-left: 6px solid red;
+  background-color: lightgrey;
+}
+h1{
+  color: aqua;
+}
+h3{
+  color: yellow;
+}
+
+img{
+  border-radius: 20px;
+  margin-bottom: 30px;
+}
+
